@@ -1,5 +1,6 @@
+<img src="https://github.com/amajaying/amajaying/blob/main/Banner.png">
 <h1 align="center">Hi 👋, I'm Gitishan Biswal</h1>
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 <h3 align="center">I am Coder</h3>
 
 <p align="left"> <a href="https://twitter.com/stfucasm" target="blank"><img src="https://img.shields.io/twitter/follow/stfucasm?logo=twitter&style=for-the-badge" alt="stfucasm" /></a> </p>
