@@ -6,7 +6,9 @@
 
 <h3 align="center">I am Coder</h3>
 
-<p align="left"> <a href="https://twitter.com/stfucasm" target="blank"><img src="https://img.shields.io/twitter/follow/stfucasm?logo=twitter&style=for-the-badge" alt="stfucasm" /></a> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Co--Founder%2FLead-CodeHolic's%20Point-orange"  alt="Custom-Badge"/><br/>
+</p>     
 
 - 🌱 I’m currently learning **Web Development,Python,Kotlin**
 
