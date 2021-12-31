@@ -1,4 +1,4 @@
-<img src="https://github.com/amajaying/amajaying/blob/main/Banner.png">
+<img src="Navy Blue Minimalist Business Conference Banner.png">
 <h1 align="center">Hi 👋, I'm Gitishan Biswal</h1>
 
 <h3 align="center">I am Coder</h3>
