@@ -1,5 +1,5 @@
 <img src="Navy Blue Minimalist Business Conference Banner.png">
-<h1 align="center">Hi 👋, I'm Gitishan Biswal</h1>
+<h2>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Gitishan!</h2>
 
 <h3 align="center">I am Coder</h3>
 
