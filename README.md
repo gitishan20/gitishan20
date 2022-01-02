@@ -4,6 +4,9 @@
 
 <h1 align="center">Hi 👋, I'm Gitishan</h1>
 <h3 align="center">I am Coder</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Co--Founder%2FLead-CodeHolic's%20Point-orange"  alt="Custom-Badge"/><br/>
+</p>
 
 - 🌱 I’m currently learning **Web Development,Python,Kotlin**
 
@@ -16,6 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/stfucasm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stfucasm" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gitishan20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gitishan20" height="30" width="40" /></a>
 <a href="https://instagram.com/youknowkanha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="youknowkanha" height="30" width="40" /></a>
 </p>
 
