@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="my banner" src="standard (1).gif"/> 
+<img alt="my banner" src="Black & Blue Futuristic Gaming Intro Video (1).gif"/> 
 </p>
 
 <h1 align="center">Hi 👋, I'm Gitishan</h1>
