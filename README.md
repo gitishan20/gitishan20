@@ -1,10 +1,12 @@
-<img src ="standard(1).gif">
+
 <h1 align="center">Hi 👋, I'm Gitishna Biswal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitishan20&label=Profile%20views&color=0e75b6&style=flat" alt="gitishan20" /> </p>
 
 <p align="left"> <a href="https://twitter.com/itsgiti" target="blank"><img src="https://img.shields.io/twitter/follow/itsgiti?logo=twitter&style=for-the-badge" alt="itsgiti" /></a> </p>
+
+<img src ="standard(1).gif">
 
 - 🔭 I’m currently working on **Movie Website**
 
