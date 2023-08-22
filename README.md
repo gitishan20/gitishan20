@@ -1,3 +1,5 @@
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Gitishan Biswal</h1>
+
 # 💫 About Me:
 🔭 I’m currently working on Chat App<br>🌱 I’m currently learning React, Mongodb, NodeJs<br>💬 Ask me about C++, HTML , CSS<br>
 
